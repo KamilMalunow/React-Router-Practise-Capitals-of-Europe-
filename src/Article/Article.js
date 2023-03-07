@@ -8,12 +8,12 @@ const Article = () => {
     return (
         <>
             <Routes>
-                <Route path="/" element={<StartPage />} />
-                <Route path="/warsaw" element={<SectionWarsaw />} />
-                <Route path="/berlin" element={<SectionBerlin />} />
-                <Route path="/london" element={<SectionLondon />} />
-                <Route path="/paris" element={<SectionParis />} />
-                <Route path="/:id" element="ERROR PAGE NOT FOUND" />
+                <Route basename={process.env.PUBLIC_URL} path="/" element={<StartPage />} />
+                <Route basename={process.env.PUBLIC_URL} path="/warsaw" element={<SectionWarsaw />} />
+                <Route basename={process.env.PUBLIC_URL} path="/berlin" element={<SectionBerlin />} />
+                <Route basename={process.env.PUBLIC_URL} path="/london" element={<SectionLondon />} />
+                <Route basename={process.env.PUBLIC_URL} path="/paris" element={<SectionParis />} />
+                <Route basename={process.env.PUBLIC_URL} path="/:id" element="ERROR PAGE NOT FOUND" />
             </Routes>
         </>
     )

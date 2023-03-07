@@ -33,12 +33,12 @@ const Header = () => {
                 </div>
                 :
                 <Routes>
-                    <Route path='/' element={<img src={Start} alt="banner" />} />
-                    <Route path='/paris' element={<img src={Paris} alt="banner" />} />
-                    <Route path='/warsaw' element={<img src={Warsaw} alt="banner" />} />
-                    <Route path='/berlin' element={<img src={Berlin} alt="banner" />} />
-                    <Route path='/london' element={<img src={London} alt="banner" />} />
-                    <Route path='/:id' element="ERROR PAGE NOT FOUND" />
+                    <Route basename={process.env.PUBLIC_URL} path='/' element={<img src={Start} alt="banner" />} />
+                    <Route basename={process.env.PUBLIC_URL} path='/paris' element={<img src={Paris} alt="banner" />} />
+                    <Route basename={process.env.PUBLIC_URL} path='/warsaw' element={<img src={Warsaw} alt="banner" />} />
+                    <Route basename={process.env.PUBLIC_URL} path='/berlin' element={<img src={Berlin} alt="banner" />} />
+                    <Route basename={process.env.PUBLIC_URL} path='/london' element={<img src={London} alt="banner" />} />
+                    <Route basename={process.env.PUBLIC_URL} path='/:id' element="ERROR PAGE NOT FOUND" />
                 </Routes>}
         </>
     )
