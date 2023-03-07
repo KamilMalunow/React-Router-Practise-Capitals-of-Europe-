@@ -1,0 +1,33 @@
+header {
+    position: relative;
+    overflow: hidden;
+}
+
+.smallBanner {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.smallBanner img {
+    width: 100%;
+    height: 100%;
+}
+
+.smallBanner span {
+    position: absolute;
+    bottom: 30%;
+    left: 0;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 4.5rem;
+}
+
+@media screen and (max-width: 551px) {
+
+    .smallBanner span {
+        font-size: 3rem;
+    }
+}

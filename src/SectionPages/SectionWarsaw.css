@@ -1,0 +1,77 @@
+.SectionWarsaw--ul {
+    background-color: transparent;
+    list-style-type: decimal;
+    margin-left: 20px;
+}
+
+.SectionWarsaw--ul li h3,
+.SectionWarsaw--ul li::marker {
+    font-size: .9em;
+    font-weight: 100;
+}
+
+.SectionWarsaw--ul li span {
+    font-size: 1.1rem;
+    line-height: -1px;
+}
+
+.picture {
+    z-index: 1;
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-color: rgba(0, 0, 0, 0.795);
+    left: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.picture img {
+    position: absolute;
+    margin: auto;
+    top: 25%;
+}
+
+
+.picture button {
+    position: fixed;
+    right: 5%;
+    top: 5%;
+    font-size: 2em;
+    background-color: transparent;
+    padding: 10px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+li h3 .pictureLink {
+    color: blue;
+    font-weight: 100;
+    font-size: small;
+    cursor: pointer;
+}
+
+li h3 .pictureLink:hover {
+    color: rgb(126, 126, 241);
+    transition: .3s;
+}
+
+
+@media only screen and (max-width: 800px) {
+    .picture img {
+        width: 580px;
+        height: 364px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .picture img {
+        width: 340px;
+        height: 220px;
+    }
+}
