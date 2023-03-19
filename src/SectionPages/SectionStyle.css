@@ -75,3 +75,19 @@ li h3 .pictureLink:hover {
         height: 220px;
     }
 }
+
+h1,
+h2,
+h3,
+h4 {
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+
+
+
+p {
+    padding: 5px 0;
+    line-height: 1.5rem;
+    font-size: 1.1rem;
+}

@@ -1,4 +1,4 @@
-import './StartPage.css'
+import './SectionStyle.css'
 
 const StartPage = () => {
     return (
@@ -11,6 +11,9 @@ const StartPage = () => {
 
             <h3>European culture</h3>
             <p>European culture is the root of Western civilisation, which traces its lineage back to ancient Greece and ancient Rome. The fall of the Western Roman Empire in 476 CE and the related Migration Period marked the end of Europe's ancient history, and the beginning of the Middle Ages. Renaissance humanism, exploration, art, and science led to the modern era. Since the Age of Discovery, started by Spain and Portugal, Europe played a predominant role in global affairs. Between the 16th and 20th centuries, European powers colonised at various times the Americas, almost all of Africa and Oceania, and the majority of Asia.</p>
+
+            <h4>European Union</h4>
+            <p>European Union, EU - an economic and political union of 27 democratic European countries. The Union was established on November 1, 1993 under the Maastricht Treaty signed on February 7, 1992 - as a result of a long-term process of political, economic and social integration. The roots of modern European integration date back to the post-war period and were limited to 6 Western European countries. These countries created many forms and mechanisms of cooperation, established organizations, institutions and bodies whose aim was to strengthen the unity between them. In 1993, the European Union became superior to all previous organizations, receiving a previously unknown hybrid sui generis formula.</p>
         </>
     )
 }

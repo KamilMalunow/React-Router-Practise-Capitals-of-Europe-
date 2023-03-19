@@ -33,7 +33,7 @@ const Header = () => {
                 </div>
                 :
                 <Routes>
-                    <Route basename={process.env.PUBLIC_URL} path='/' element={<img src={Start} alt="banner" />} />
+                    <Route basename={process.env.PUBLIC_URL} path='/React-Router-Practise-Capitals-of-Europe-' element={<img src={Start} alt="banner" />} />
                     <Route basename={process.env.PUBLIC_URL} path='/paris' element={<img src={Paris} alt="banner" />} />
                     <Route basename={process.env.PUBLIC_URL} path='/warsaw' element={<img src={Warsaw} alt="banner" />} />
                     <Route basename={process.env.PUBLIC_URL} path='/berlin' element={<img src={Berlin} alt="banner" />} />

@@ -1,12 +1,12 @@
-import './SectionWarsaw.css';
+import './SectionStyle.css';
 import React from 'react';
 import MonumentItem from './MonumentItem.js';
 
-import RoyalBathroom from './SectionPictures/palacNaWodzie.jpg';
-import OldCity from './SectionPictures/Old City.jpg';
-import PalaceWilanow from './SectionPictures/Palace in Wilanów.jpg';
-import PalaceOfCulture from './SectionPictures/Palace of Culture and Science.jpg';
-import RoyalCastle from './SectionPictures/Royal Castle.jpg'
+import RoyalBathroom from './SectionPicturesWarsaw/palacNaWodzie.jpg';
+import OldCity from './SectionPicturesWarsaw/Old City.jpg';
+import PalaceWilanow from './SectionPicturesWarsaw/Palace in Wilanów.jpg';
+import PalaceOfCulture from './SectionPicturesWarsaw/Palace of Culture and Science.jpg';
+import RoyalCastle from './SectionPicturesWarsaw/Royal Castle.jpg'
 class SectionWarsaw extends React.Component {
 
     state = {

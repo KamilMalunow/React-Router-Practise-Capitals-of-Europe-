@@ -8,7 +8,7 @@ const Article = () => {
     return (
         <>
             <Routes>
-                <Route basename={process.env.PUBLIC_URL} path="/" element={<StartPage />} />
+                <Route basename={process.env.PUBLIC_URL} path="/React-Router-Practise-Capitals-of-Europe-" element={<StartPage />} />
                 <Route basename={process.env.PUBLIC_URL} path="/warsaw" element={<SectionWarsaw />} />
                 <Route basename={process.env.PUBLIC_URL} path="/berlin" element={<SectionBerlin />} />
                 <Route basename={process.env.PUBLIC_URL} path="/london" element={<SectionLondon />} />
