@@ -1,26 +1,41 @@
 {
   "files": {
-    "main.css": "/React-Router-Practise-Capitals-of-Europe-/static/css/main.8f94b536.css",
-    "main.js": "/React-Router-Practise-Capitals-of-Europe-/static/js/main.1a0ff29e.js",
+    "main.css": "/React-Router-Practise-Capitals-of-Europe-/static/css/main.dd417f2d.css",
+    "main.js": "/React-Router-Practise-Capitals-of-Europe-/static/js/main.23e0bd64.js",
     "static/js/787.3ea12701.chunk.js": "/React-Router-Practise-Capitals-of-Europe-/static/js/787.3ea12701.chunk.js",
+    "static/media/Montmartre.png": "/React-Router-Practise-Capitals-of-Europe-/static/media/Montmartre.4cc7a66dc631f9ae0eb2.png",
     "static/media/StartPicture.png": "/React-Router-Practise-Capitals-of-Europe-/static/media/StartPicture.f7d3a0196636c71e6666.png",
     "static/media/Paris.png": "/React-Router-Practise-Capitals-of-Europe-/static/media/Paris.0e3038f420de3f847a6e.png",
     "static/media/Warsaw.png": "/React-Router-Practise-Capitals-of-Europe-/static/media/Warsaw.d6989ab6d2df60cf9929.png",
     "static/media/London.png": "/React-Router-Practise-Capitals-of-Europe-/static/media/London.3d672d6bdbf776482eb1.png",
     "static/media/Berlin.png": "/React-Router-Practise-Capitals-of-Europe-/static/media/Berlin.f75324066e2e2ee30d0f.png",
+    "static/media/Triumphal arch.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Triumphal arch.299c4a0bcfdfcf3de90d.jpg",
+    "static/media/Musée d Orsay.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Musée d Orsay.22735a84ff5628d03c85.jpg",
+    "static/media/Latin Quarter.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Latin Quarter.ceb849fa0efd4bd396d8.jpg",
+    "static/media/Sky Garden.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Sky Garden.f707b11e14bc63fc5b5f.jpg",
+    "static/media/Tower of London.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Tower of London.5f0f4121e1fa3abc3cae.jpg",
+    "static/media/Reichstag.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Reichstag.592788848716e779a2ea.jpg",
+    "static/media/Berliner House.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Berliner House.ea9cbdb3a2293c923d70.jpg",
+    "static/media/Notting Hill.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Notting Hill.a4209bd3e4220d433582.jpg",
+    "static/media/Eiffel Tower.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Eiffel Tower.36480ab8b2c5a6de40c3.jpg",
+    "static/media/Berlin Gate.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Berlin Gate.617fd2a7a93d69053ed7.jpg",
     "static/media/Old City.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Old City.d065f30207efd70364e2.jpg",
+    "static/media/Tower Bridge.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Tower Bridge.ed6c60f1360e53a0deeb.jpg",
     "static/media/palacNaWodzie.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/palacNaWodzie.8cdd9f4a355a8d92f3a9.jpg",
     "static/media/Palace in Wilanów.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Palace in Wilanów.963a2fc585d25c523d57.jpg",
+    "static/media/The London Eye.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/The London Eye.6b2b850a83e20837c149.jpg",
+    "static/media/Holocaust.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Holocaust.44e9c7423af6990f5008.jpg",
     "static/media/Royal Castle.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Royal Castle.7560d614d5856b3c3054.jpg",
+    "static/media/Charlottenburg Castle.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Charlottenburg Castle.728c58e54e8e3da8faab.jpg",
     "static/media/Palace of Culture and Science.jpg": "/React-Router-Practise-Capitals-of-Europe-/static/media/Palace of Culture and Science.41fb08e5cadb409f8c72.jpg",
     "static/media/smallbanner.png": "/React-Router-Practise-Capitals-of-Europe-/static/media/smallbanner.bac6503246610030104b.png",
     "index.html": "/React-Router-Practise-Capitals-of-Europe-/index.html",
-    "main.8f94b536.css.map": "/React-Router-Practise-Capitals-of-Europe-/static/css/main.8f94b536.css.map",
-    "main.1a0ff29e.js.map": "/React-Router-Practise-Capitals-of-Europe-/static/js/main.1a0ff29e.js.map",
+    "main.dd417f2d.css.map": "/React-Router-Practise-Capitals-of-Europe-/static/css/main.dd417f2d.css.map",
+    "main.23e0bd64.js.map": "/React-Router-Practise-Capitals-of-Europe-/static/js/main.23e0bd64.js.map",
     "787.3ea12701.chunk.js.map": "/React-Router-Practise-Capitals-of-Europe-/static/js/787.3ea12701.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f94b536.css",
-    "static/js/main.1a0ff29e.js"
+    "static/css/main.dd417f2d.css",
+    "static/js/main.23e0bd64.js"
   ]
 }
