@@ -82,8 +82,9 @@ class SectionBerlin extends React.Component {
     render() {
         return (
             <>
-                <h1>Warsaw the capital of Poland</h1>
-                <p>Warsaw Polish: Warszawa, officially the Capital City of Warsaw, is the capital and largest city of Poland. The metropolis stands on the River Vistula in east-central Poland, and its population is officially estimated at 1.86 million residents within a greater metropolitan area of 3.1 million residents, which makes Warsaw the 6th most-populous city in the European Union. The city area measures 517 km2 200 sq mi and comprises 18 districts, while the metropolitan area covers 6,100 km2 2,355 sq mi. Warsaw is an Alpha global city, a major cultural, political and economic hub, and the country's seat of government.</p>
+                <h1>Berlin the capital of Germany</h1>
+                <p>Berlin - the capital, the largest city of Germany and also a federal state. It covers an area of ​approx. 892 km2 and is inhabited by over 3.8 million people. It is the largest city in the European Union in terms of population. Berlin is divided into twelve administrative districts. Through the urban space flow m.in. the rivers Spree and Havel, and there are many lakes and bays, including the largest Müggelsee
+                </p>
 
                 <h2>Places worth to visit</h2>
 
